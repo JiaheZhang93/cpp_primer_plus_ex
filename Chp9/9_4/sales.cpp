@@ -1,5 +1,5 @@
 // C++ Primer Plus
-// Ex 9_3
+// Ex 9_4
 // By Jiahe Zhang
 
 // sales.cpp
